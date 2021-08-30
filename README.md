@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gabriel Matos
-  - 💼 Hoje trabalho com Front-End
+  - 💼 Trabalho como Desenvolvedor de Sistemas Júnior 
   - 📖 Estudando Typescript e NextJS
+  - 👨‍🎓 Atualmente, estou cursando Ciências da Computação
 ##
 
  <div>
