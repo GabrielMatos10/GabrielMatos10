@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Matos
-  - 💼 Trabalho como Desenvolvedor de Sistemas Júnior 
-  - 📖 Estudando Typescript e NextJS
+  - 💼 Trabalho como Desenvolvedor de Sistemas Júnior na Sinapse S.A
+  - 📖 Estudando Typescript, NextJS, ReactJS e ReactNative
   - 👨‍🎓 Atualmente, estou cursando Ciências da Computação
 ##
 
