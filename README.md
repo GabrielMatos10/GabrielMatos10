@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gabriel Matos
-  - 💼 Trabalho como Desenvolvedor de Sistemas Júnior na Sinapse S.A
+  - 💼 Trabalho como Estágiário na Accenture!
   - 📖 Estudando Typescript, NextJS, ReactJS e ReactNative
   - 👨‍🎓 Atualmente, estou cursando Ciências da Computação
 ##
