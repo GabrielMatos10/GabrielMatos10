@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Matos
-  - 💼 Trabalho como Estágiário na Accenture!
-  - 📖 Estudando Typescript, NextJS, ReactJS e ReactNative
-  - 👨‍🎓 Atualmente, estou cursando Ciências da Computação
+  - 💼 I work as a Junior Software Developer at Accenture!
+  - 📖 Studying ReactJS and ReactNative, NodeJs and .Net
+  - 👨‍🎓 Graduated in Computer Science
 ##
 
  <div>
